@@ -7,7 +7,7 @@ import graveyardData from './data/graveyard.json';
 import type { Product, FilterType } from './types';
 import './styles.css';
 
-const products: Product[] = graveyardData;
+const products = graveyardData as Product[];
 
 function App() {
   const [filter, setFilter] = useState<FilterType>('all');
