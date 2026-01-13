@@ -3,16 +3,16 @@
     "name": "Chegg",
     "dateOpen": "2005-01-01",
     "dateClose": "2023-05-01",
-    "description": "Chegg was an educational technology company that provided textbook rentals, homework help, and tutoring services. Its stock plummeted 48% in a single day after management cited ChatGPT as a direct threat to their business model.",
-    "link": "https://www.cnbc.com/2023/05/02/chegg-drops-more-than-40percent-after-saying-chatgpt-is-hurting-growth.html",
+    "description": "Chegg was an educational technology company that provided textbook rentals, homework help, online tutoring, and scholarship search services to students.",
+    "link": "https://www.chegg.com",
     "type": "company"
   },
   {
     "name": "Stack Overflow",
     "dateOpen": "2008-09-15",
     "dateClose": "2024-01-01",
-    "description": "Stack Overflow was the dominant Q&A platform for programmers worldwide. Traffic declined significantly as developers turned to AI coding assistants like GitHub Copilot and ChatGPT for immediate answers to programming questions.",
-    "link": "https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/",
+    "description": "Stack Overflow was a question and answer website for programmers. It featured questions and answers on a wide range of topics in computer programming.",
+    "link": "https://stackoverflow.com",
     "type": "service"
   }
 ]

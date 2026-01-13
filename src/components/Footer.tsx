@@ -7,12 +7,12 @@ export function Footer() {
           <span>Killed by LLMs</span>
         </div>
         <p className="footer-text">
-          Killed by LLMs is a tribute to the companies and products disrupted by Large Language Models.
+          Killed by LLMs is a tribute to the products, services, and companies made obsolete by Large Language Models.
           <br />
-          The idea and inspiration is entirely from the original project.
+          These listings may not be entirely dead, but have become obsolete or close to obsolete because of LLMs.
         </p>
         <p className="footer-attribution">
-          Inspired by{' '}
+          Idea and inspiration entirely from{' '}
           <a href="https://killedbygoogle.com" target="_blank" rel="noopener noreferrer">
             Killed by Google
           </a>
