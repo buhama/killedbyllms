@@ -14,5 +14,13 @@
     "description": "Stack Overflow was a question and answer website for programmers. It featured questions and answers on a wide range of topics in computer programming.",
     "link": "https://stackoverflow.com",
     "type": "service"
+  },
+  {
+    "name": "Fiverr",
+    "dateOpen": "2010-02-01",
+    "dateClose": "2023-11-01",
+    "description": "Fiverr was an online marketplace for freelance services. It connected businesses with freelancers offering digital services in writing, graphic design, video editing, programming, and more.",
+    "link": "https://www.fiverr.com",
+    "type": "service"
   }
 ]
